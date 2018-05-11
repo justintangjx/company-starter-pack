@@ -38,7 +38,12 @@ class App extends Component {
             >
               Email integration and user authentication
             </p>
-            <a href="https://my-feedback-team-b-staging.herokuapp.com/" class="card-link">Click me</a>
+            <a
+              href="https://my-feedback-team-b-staging.herokuapp.com/"
+              class="card-link"
+            >
+              Click me
+            </a>
           </div>
         </div>
 
@@ -50,7 +55,12 @@ class App extends Component {
           <div class="card-body">
             <h4 class="card-title">Team teamperature check for managers</h4>
             <p class="card-text">Dynamic rendering of graphs and stickies</p>
-            <a href="https://teamtrainingorcheckin.herokuapp.com/" class="card-link">Click me</a>
+            <a
+              href="https://teamtrainingorcheckin.herokuapp.com/"
+              class="card-link"
+            >
+              Click me
+            </a>
           </div>
         </div>
         <div
@@ -61,9 +71,12 @@ class App extends Component {
           <div class="card-body">
             <h4 class="card-title">Team data collection telegram bot</h4>
             <p class="card-text">
-              Data tracking and collection via telegram (add telegram bot JumpStart Data) on google sheets
+              Data tracking and collection via telegram (add telegram bot
+              JumpStart Data) on google sheets
             </p>
-            <a href="https://web.telegram.org/#/im" class="card-link">Click me (add JumpStart Data)</a>
+            <a href="https://web.telegram.org/#/im" class="card-link">
+              Click me (add JumpStart Data)
+            </a>
           </div>
         </div>
         <div
@@ -73,7 +86,9 @@ class App extends Component {
           <div class="card-header">Sales</div>
           <div class="card-body">
             <h4 class="card-title">Telegram bot for quick sales</h4>
-            <p class="card-text">Payments service (using Stripe) vis-a-vis telegram bot</p>
+            <p class="card-text">
+              Payments service (using Stripe) vis-a-vis telegram bot
+            </p>
           </div>
         </div>
 
