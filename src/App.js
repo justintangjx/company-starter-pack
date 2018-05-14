@@ -99,12 +99,15 @@ class App extends Component {
           <div class="card-body">
             <h4 class="card-title">Real-time WebChat using web-sockets</h4>
             <p class="card-text">
-              Replica of simple real-time web-chat app for quick customer/team discussion
+              Replica of simple real-time web-chat app for quick customer/team
+              discussion
             </p>
-            <a href="https://github.com/justintangjx/team-discussion-app" class="card-link">
-            Click me!
-            </a> 
-
+            <a
+              href="https://github.com/justintangjx/team-discussion-app"
+              class="card-link"
+            >
+              Click me!
+            </a>
           </div>
         </div>
       </div>
