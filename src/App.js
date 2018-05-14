@@ -71,8 +71,7 @@ class App extends Component {
           <div class="card-body">
             <h4 class="card-title">Team data collection telegram bot</h4>
             <p class="card-text">
-              Data tracking and collection via telegram (add telegram bot
-              JumpStart Data) on google sheets
+              Data tracking and collection via telegram on google sheets
             </p>
             <a href="https://web.telegram.org/#/im" class="card-link">
               Click me (add JumpStart Data)
@@ -100,8 +99,12 @@ class App extends Component {
           <div class="card-body">
             <h4 class="card-title">Real-time WebChat using web-sockets</h4>
             <p class="card-text">
-              Replica of simple messenger app for quick customer/team discussion
+              Replica of simple real-time web-chat app for quick customer/team discussion
             </p>
+            <a href="https://github.com/justintangjx/team-discussion-app" class="card-link">
+            Click me!
+            </a> 
+
           </div>
         </div>
       </div>
